@@ -1,6 +1,4 @@
 body{
-    padding: 0 auto;
-    margin: 0 auto;
     background-color: hsl(240, 88%, 43%);
 }
 
@@ -8,7 +6,7 @@ body{
     position: relative;
     margin-top: 20%;
     left:100%;
-    color: hsl(51, 100%, 50%);
-    transform: scale(2);
+    color: hsl(51, 50%, 37%);
+    transform: scale(2.0);
 
 }
