@@ -6,7 +6,9 @@ body{
     position: relative;
     margin-top: 20%;
     left:100%;
+    margin-left: 25.0em;
     color: hsl(51, 50%, 37%);
-    transform: scale(2.0);
+    transform: scale(3.0);
+    font-family: 'Merriweather', serif;
 
 }
