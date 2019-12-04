@@ -1,3 +1,4 @@
 document.getElementById('Text');
 
-window.addEventListener('keyup' , init)
+document.addEventListener('keyup', (event) => {
+    const keyName = event.key;

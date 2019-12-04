@@ -1,11 +1,14 @@
 body{
     padding: 0 auto;
     margin: 0 auto;
+    background-color: hsl(240, 88%, 43%);
 }
 
 #Text{
     position: relative;
     margin-top: 20%;
-    left: 49%;
+    left:100%;
+    color: hsl(51, 100%, 50%);
+    transform: scale(2);
 
 }
