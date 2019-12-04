@@ -1,0 +1,11 @@
+body{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+#Text{
+    position: relative;
+    margin-top: 20%;
+    left: 49%;
+
+}
