@@ -1,14 +1,10 @@
 body{
-    background-color: hsl(240, 88%, 43%);
+    position:relative;
 }
 
-#Text{
-    position: relative;
-    margin-top: 20%;
-    left:100%;
-    margin-left: 25.0em;
-    color: hsl(51, 50%, 37%);
-    transform: scale(3.0);
-    font-family: 'Merriweather', serif;
-
+#text{
+    position: absolute;
+    left: 45vw;
+    top: 35vh;
+    font-size: 5em;
 }
